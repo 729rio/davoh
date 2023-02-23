@@ -12,3 +12,14 @@ What is Git?
 <Branches>
 -alternative environments
 -often used to experiment unfinished, potentially buggy features in seperate branches, without committing to affecting the master (main) version of the project
+
+
+
+
+2/21
+1. initiating branches, editing and merging branches with the master branch through GitHub
+2. how to use Ubuntu and WSL to initiate Git in VSCode
+3. how to generate SSH keys
+4. basic shortcut keys in VSCode
+
+2/23
